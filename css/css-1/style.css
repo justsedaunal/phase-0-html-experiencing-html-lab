@@ -1,0 +1,40 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+nav a {
+  background-color: gray;
+}
+
+.img-center {
+  width: 920px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.p-center {
+  width: 720px;
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.container-footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+  margin-top: 10px;
+}
+
+#details div {
+  text-align: center;
+}
